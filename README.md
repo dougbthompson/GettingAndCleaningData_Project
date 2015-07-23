@@ -31,5 +31,5 @@ into a data.frame.
 This contains the final output of mean values per (subject,activity),
 the values have also been rounded to 4 decimal places.
 
-You can see a sample of the data, in the file results.txt.
+You can see a sample of the data, in the file results.txt
 
