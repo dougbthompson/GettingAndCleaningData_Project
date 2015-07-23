@@ -14,12 +14,17 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 This is the source script which reads the data files and prodces two output
 files, tidy_data_set.txt and tidy_data_set_averages.txt
 
-* (1)
-* (2)
-* (3)
-* (4)
-* (5)
+1. Merge "training" and "test" data sets
+   * Reads "X' and "y" data along with a list of "subjects
+   * Merge two sets of data for the three objects
 
+2. Extracts "mean" and "stand deviation" measurements
+   * 
+   *
+
+3. Descriptive activity names
+4. Label data set properly
+5. Create tidy data and data set of averages for (subject, activity, measurements
 
 ## tidy_data_set.txt (8150KB)
 
