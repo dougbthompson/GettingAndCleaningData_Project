@@ -48,7 +48,8 @@ into a data.frame.
 
 ## tidy_data_set_averages.txt (94KB)
 
-This contains the final output of mean values per (subject,activity),
-the values have also been rounded to 4 decimal places.
+This contains the final output of mean values per subject, activity, measurement.
+
+The values have also been rounded to 4 decimal places.
 
 You can see a sample of the data, in the file results.txt
